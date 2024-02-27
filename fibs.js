@@ -16,8 +16,6 @@ function fibs (n) {
     console.log(arr); 
 }
 
-
-
 console.log(fibs (2)); 
 
 
